@@ -738,10 +738,10 @@ function Contact() {
 
         <div className={`contact-socials sr${vis ? ' visible' : ''}`} style={{ transitionDelay: '0.1s', marginTop: '3rem' }}>
           {[
-            { label: 'Twitter',   href: '#' },
-            { label: 'LinkedIn',  href: '#' },
-            { label: 'Instagram', href: '#' },
-            { label: 'Discord',   href: '#' },
+            { label: 'Twitter',   href: 'https://x.com/ri8huuu' },
+            { label: 'LinkedIn',  href: 'https://www.linkedin.com/in/rishu-singh24?utm_source=share_via&utm_content=profile&utm_medium=member_android' },
+            { label: 'Instagram', href: 'https://www.instagram.com/ri8huuu?igsh=MWVjeW5pM2gxbXUwdw==' },
+            { label: 'Discord',   href: 'https://discord.gg/n8MpEWGck2' },
           ].map(({ label, href }) => (
             <a
               key={label}
