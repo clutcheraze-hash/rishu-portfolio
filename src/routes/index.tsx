@@ -510,7 +510,6 @@ function Experience() {
                 <h3 className="exp-title">{exp.title}</h3>
                 <div className="exp-company">{exp.company}</div>
               </div>
-              <div className="exp-year">{exp.year}</div>
             </div>
             <p className="exp-desc">{exp.desc}</p>
             <div className="exp-tags" role="list" aria-label="Technologies and skills">
