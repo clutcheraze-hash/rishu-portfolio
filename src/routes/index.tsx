@@ -81,7 +81,7 @@ const ACHIEVEMENTS = [
   { number: '55',  suffix: '+',  label: 'Brand Partnerships' },
   { number: '13',  suffix: 'x',  label: 'Tournament Champions' },
   { number: '67',  suffix: '+',  label: 'Creators Managed' },
-  { number: '6',   suffix: '+',  label: 'Years Building' },
+  { number: '3',   suffix: '+',  label: 'Years Building' },
 ]
 
 /* ─── Hooks ────────────────────────────────────────────────── */
