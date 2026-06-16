@@ -6,8 +6,8 @@ export const Route = createRootRoute({
     meta: [
       { charSet: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { title: 'Kai Tanaka — Founder · Entrepreneur · Esports Visionary' },
-      { name: 'description', content: 'Founder, entrepreneur, esports organization owner, and technology enthusiast building the future at the intersection of gaming, culture, and digital innovation.' },
+      { title: 'Rishu Singh — Founder · Entrepreneur · Esports Athlete' },
+      { name: 'description', content: 'Founder, entrepreneur, esports athlete, and community builder architecting the gaming ecosystem from the ground up.' },
       { name: 'theme-color', content: '#050505' },
     ],
     links: [
